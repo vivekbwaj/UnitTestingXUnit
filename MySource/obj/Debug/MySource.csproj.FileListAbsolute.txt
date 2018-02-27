@@ -1,0 +1,5 @@
+C:\Automation\MySource\MySource\bin\Debug\MySource.exe.config
+C:\Automation\MySource\MySource\bin\Debug\MySource.exe
+C:\Automation\MySource\MySource\bin\Debug\MySource.pdb
+C:\Automation\MySource\MySource\obj\Debug\MySource.exe
+C:\Automation\MySource\MySource\obj\Debug\MySource.pdb
